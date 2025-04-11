@@ -1,0 +1,17 @@
+[
+	{
+		"name": "Jakob Berger",
+		"age": 77,
+		"address": {
+			"location": "Krauchtal",
+			"country": "CH"
+		}
+	},
+	{
+		"name": "Margrit Nyffeler",
+		"address": {
+			"location": "Bäriswil",
+			"country": "CH"
+		}
+	}
+]
